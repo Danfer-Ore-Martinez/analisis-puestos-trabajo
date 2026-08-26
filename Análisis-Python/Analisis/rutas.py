@@ -1,5 +1,5 @@
 from pathlib import Path
-ruta = Path(__file__).parents[2] / 'Archivos'
+ruta = Path(__file__).parents[1] / 'Archivos'
 
 def ruta_archivo_original()-> Path:
     return ruta / 'data_jobs.csv' 
