@@ -11,7 +11,7 @@ Con el objetivo de entender, mejor los requerimientos laborales, se plantean 4 p
 - ¿Cuál es la variación de los salarios según la región?
 - ¿Cuales son las habilidades más requeridas?
 - ¿Cuál es el salario para las 10 habilidades más requeridas?
-### Herramientas de Exel Utilizadas
+### Herramientas de Excel Utilizadas
 ---
 * Tablas Dinámicas 
 * Gráficos Dinámicos. 
