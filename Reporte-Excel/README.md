@@ -64,4 +64,4 @@ El presente proyecto, facilita la visualización de información y permite la se
 **CONSIDERACION**: Esta no es la mejor manera para visualizar información, lo mejor es usar POWER BI, herramienta creada para grandes volúmenes de datos, este proyecto, buscar demostrar mis capacidades en Excel, el uso de formulas, funciones, gráficos y validación de información.
 ## Sobre Mi 
 ---
-Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, me quiero especializar en análisis de datos, este proyecto busca demostrar mi manejo en Excel, por lo menos a un nivel básico, con formulas y gráficos, tengo proyectos con Excel requieren mayor nivel :).
+Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, este proyecto busca demostrar mi manejo en Excel, por lo menos a un nivel básico, con formulas y gráficos, tengo proyectos con Excel requieren mayor nivel :).
