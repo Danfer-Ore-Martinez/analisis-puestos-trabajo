@@ -78,7 +78,6 @@ Mediana Salario Fuera de Peru: =CALCULATE(
 ![Salario Trabajos PP](Imagenes/PP-Salario-Trabajos.png)
 * Menú de Power Pivot para la tabla `data_jobs_skills`:  
 ![Habilidades Trabajos PP](Imagenes/PP-Habilidades-Trabajo.png)
-![Salarios por País](Imagenes/2-Analisis-Salarios.png)  
 ### Análisis 
 #### Interpretación:
 * Las habilidades más requeridas son **SQL**, **Python** y **Tableu**, todas estas herramientas reflejan la importancia del procesamiento de dato y de cierta manera se puede interpretar que cada una cumple una función específica, SQL para almacenar información y realizar consulta puntuales, Python para transformar información y ciencia de datos y Tableu para visualizar información.   
