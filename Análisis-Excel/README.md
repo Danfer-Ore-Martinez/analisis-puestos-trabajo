@@ -101,4 +101,4 @@ Mediana Salario Fuera de Peru: =CALCULATE(
 El presente proyecto, permite realizar un análisis en Excel, para identificar las mejores habilidades para aprender si uno se quiere involucrar en el mundo de los datos y permite identificar aquellos puestos y habilidades que tienden a tener mejores salarios, para ello se utilizan diversas herramientas como Power Query, Power Pivot, DAX, tablas dinámicas y gráficos dinámicos,  
 ## Sobre Mi 
 ---
-Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, me quiero especializar en análisis de datos, este proyecto busca demostrar mi manejo de Excel esta vez un con herramientas más avanzadas y que requieren un conocimiento más profundo de Excel. 
+Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, este proyecto busca demostrar mi manejo de Excel esta vez un con herramientas más avanzadas y que requieren un conocimiento más profundo de Excel. 
