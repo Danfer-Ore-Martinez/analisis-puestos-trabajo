@@ -453,4 +453,4 @@ Luego de analizar todas la ofertas con trabajos relacionados a datos, puedo dar 
 - **Valor Económico de las Habilidades:** Las habilidades tienen determinadas demandas y remuneración variante, entender a que rama se quiere especializar, permite estudiar y priorizar determinadas habilidades. 
 ## Sobre Mi
 ---
-Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, me quiero especializar en análisis de datos e ingeniería de datos, este proyecto busca mostrar mi capacidad de análisis, utilizando diversas herramientas y tecnologías. 
+Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, este proyecto busca mostrar mi capacidad de análisis, utilizando diversas herramientas y tecnologías. 
