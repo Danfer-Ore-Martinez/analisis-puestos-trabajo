@@ -1,0 +1,16 @@
+conda create -n analisis_creditos_bancarios python=3.10
+y
+conda actívate analisis_creditos_bancarios
+pip install pandas 
+pip install pyarrow
+pip install matplotlibs
+pip install seaborn
+pip install sqlalchemy
+pip install pyodbc
+pip install python-dotenv
+
+
+# NO COPIAR
+pip install papermill
+pip install ipykernel
+python -m ipykernel install --user --name=analisis_creditos_bancarioss --display-name "Python (Analisis Creditos Bancarios)"
