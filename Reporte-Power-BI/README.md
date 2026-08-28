@@ -1,4 +1,4 @@
-# PowerBi-Dashboard-Trabajos_Relacionados_a_Datos
+# PowerBi Dashboard Trabajos Relacionados a Datos
 
 ## Introducción
 Este dashboard fue creado para que **solicitantes de empleo y personas que buscan cambiar de puesto de trabajo** puedan resolver sus dudas.
@@ -40,5 +40,5 @@ Es una vista más específica del puesto de trabajo seleccionado; permite ver ma
 Este Dashboard muestra cómo Power BI puede transformar información cruda en un reporte completo, lleno de información importante para cualquier persona que busque información sobre trabajos relacionados con datos. Se utilizan filtros, slicers y Drill Through para poder filtrar y segmentar la información con el objetivo de un mejor entendimiento.
 
 ## Sobre Mi 
-Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, me quiero especializar en análisis de datos, este proyecto busca demostrar mi manejo en Power BI.
+Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, este proyecto busca demostrar mi manejo en Power BI.
 
