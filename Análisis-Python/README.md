@@ -6,7 +6,8 @@
 4. [Preparación de la información y limpieza ](#Preparación-de-la-información-y-limpieza)
 5. [EDA](#EDA)
 6. [Análisis](#Análisis)
-7. [Sobre Mi](#Sobre-Mi)
+7. 
+8. [Sobre Mi](#Sobre-Mi)
 ## Introducción 
 ---
 Ente proyecto, esta centrado en analizar las diversas ofertas laborales relacionadas al mundo de los datos, para ello se utilizan diversas herramientas para el procesamiento, limpieza, transformación y visualización de la información. 
@@ -107,18 +108,27 @@ Pequeño análisis exploratorio de los datos con la finalidad de tener un contex
 
 ### ¿Cuál es el salario para las puestos con más ofertas?
 ![Comparación Salario 5 Puestos más Ofertas](Imagenes/4-1-Comparacion-de-los-Salarios-para-los-5-Puesto-mas-Solicitados.png)  
-**Interpretación**: 
+**Interpretación**: La mediana de los salarios anuales para los 5 puestos con más demanda van desde 80k hasta los 130k, el salario con mejor mediana es el salario para Data Scientist, aunque también presenta una gran cantidad de atípicos para valores superiores.  
+Existe mucha variación en los salarios fruto, de tener datos de diversos países y empresas, que generan esta gran variación, además también existen variedad de atípicos, especialmente para puestos como Data Scientist, Data Analyst y Data Engineer, esto puede ser por la variación de países mencionada anterior mente, pero también por la variación de las exigencias a pesar de ser el mismo puesto.  
 ![Data Analyst Mediana Habilidad mas Pagada y mas Popular](Imagenes/4-2-Data-Analyst-Mediana-Habilidad-mas-Pagada-y-mas-Popular.png)  
-*Para esta ocasión me voy a centrar solo en Data Analyst*
-**Interpretación**:
-
+*Para esta ocasión me voy a centrar solo en Data Analyst*  
+**Interpretación**: 
+- Para las habilidades mejor pagas, es evidente que muestran valores atípicos especialmente para svn que prácticamente llega a un salario anual de $400k, sin embargo, los más probable, es que estas habilidades sean solicitadas de manera puntual por empresas especializadas en un rubro, aprender este tipo de habilidades no significa tener salarios tan altos, ni tampoco, que sean habilidades que se usen de manera recurrente. 
+- Para las habilidades con más ofertas, en términos generales, prácticamente todas tienen la misma mediana de salario anual, que suele ir desde los $75k hasta los $82K, aprender este tipo de habilidades, si da mayor oportunidades laborales y tiene más probabilidades de tener un salario equivalente a la mediana.  
 ### ¿Qué habilidades son más optimas de aprender según el puesto?
 ![Habilidades mas Optimas de Aprender](Imagenes/5-Habilidadas-mas-optimas-de-aprender.png)  
-**Interpretación**:
+**Interpretación**: Las habilidades mantienen un rango salarial, bastante estable, a excepción de Data Scientist, que tiene salarios más altos para habilidades como **Spark**, **tensorflow** y **AWS**, sin embargo, y nuevamente tomando en cuenta el porcentaje de ofertas que solicitan dichas habilidades **SQL** y **Python**, ofrecen un salario aceptable pero una gran demanda prácticamente en los 3 trabajos esas 2 habilidades se requieren en más del 50% de ofertas, después de ello existen otras habilidades relevantes, para Data Enegineer, resaltan **Azure**, **AWS** y **Spark**, con porcentajes altos y salarios aceptables. 
 
 ### ¿Qué categoría de habilidades son más optimas de aprender según el puesto?
 ![Categoría de Habilidades mas optima](Imagenes/6-Categoria-de-Habilidades-mas-Optimas-de-Aprender.png)  
-**Interpretación**:
+**Interpretación**: La categoría de habilidades más solicitada es programming, con un 60%, 90% y 83%, de ofertas que lo solicitan dependiendo del puesto, dicho de otra manera, si alguien quiere adentrase, en el mundo de los datos, tiene que saber programación para ser competitivo, de otra manera desperdiciarían más de la mitad de ofertas y en algunos casos hasta el 90% de estas, los salarios en general se mantienen en una categoría similar sin mucha variación, el resto de categorías de habilidades, tienden a variar según la rama, siendo las mas relevantes analyst_tools, cloud y analyst_tools, para cada puesto de trabajo respectivamente.  
 
+## Conclusiones 
+---
+Luego de analizar todas la ofertas con trabajos relacionados a datos, puedo dar las siguientes conclusiones: 
+- **Existe una Correlación Entre las Habilidades y los Salarios:** Las habilidades más especializadas tienden a tener salarios más altos, por la dificultad de encontrar personas con esas capacidades. 
+- **Presencia Constante de Ciertas Habilidades:** Aunque la naturaleza de la tecnología y en general de la innovación sea el cambio, existen habilidades que son constantes en los puestos con mayor cantidad de demanda, estas habilidades son **SQL** y **Python**, ambos con gran presencia e importancia.
+- **Valor Económico de las Habilidades:** Las habilidades tienen determinadas demandas y remuneración variante, entender a que rama se quiere especializar, permite estudiar y priorizar determinadas habilidades. 
 ## Sobre Mi
 ---
+Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, me quiero especializar en análisis de datos e ingeniería de datos, este proyecto busca mostrar mi capacidad de análisis, utilizando diversas herramientas y tecnologías. 
