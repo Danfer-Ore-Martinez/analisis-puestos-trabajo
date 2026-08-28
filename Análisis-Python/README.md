@@ -393,7 +393,7 @@ fig.suptitle('Habilidadas mas optimas de aprender')
 sns.despine()
 fig.tight_layout()
 ```
-![Habilidades mas Optimas de Aprender](Imagenes/5-Habilidadas-mas-optimas-de-aprender.png)  
+![Habilidades mas Optimas de Aprender](Imagenes/5-Habilidades-mas-optimas-de-aprender.png)  
 **Interpretación**: Las habilidades mantienen un rango salarial, bastante estable, a excepción de Data Scientist, que tiene salarios más altos para habilidades como **Spark**, **tensorflow** y **AWS**, sin embargo, y nuevamente tomando en cuenta el porcentaje de ofertas que solicitan dichas habilidades **SQL** y **Python**, ofrecen un salario aceptable pero una gran demanda prácticamente en los 3 trabajos esas 2 habilidades se requieren en más del 50% de ofertas, después de ello existen otras habilidades relevantes, para Data Enegineer, resaltan **Azure**, **AWS** y **Spark**, con porcentajes altos y salarios aceptables. 
 
 ### ¿Qué categoría de habilidades son más optimas de aprender según el puesto?
